@@ -1,1 +1,1 @@
-# open5gs-gcp-kubernetes-high-availability-
+# open5gs-gcp-kubernetes-high-availability
