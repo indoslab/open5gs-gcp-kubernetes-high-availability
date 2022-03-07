@@ -34,7 +34,7 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Part 10 - Getting access to Rancher](docs/11-part-10.md)
 * [Part 11 - Getting access to Grafana](docs/12-part-11.md)
 * [Part 12 - Getting access to Istio Kiali Dashboard](docs/13-part-12.md)
-* [Part 13 - Testing create PVC & POD](docs/14-part-13.md)
+* [Part 13 - Open5gs Simulation](docs/14-part-13.md)
 
 
 References:
@@ -46,3 +46,17 @@ https://assyafii.com/docs/install-kubernetes-cluster-multi-master-ha/
 https://assyafii.com/docs/deploy-storage-cluster-rook-with-ceph-in-kubernetes/
 
 https://rook.io/docs/rook/v1.7/
+
+https://github.com/open5gs/open5gs
+
+https://github.com/aligungr/UERANSIM/wiki/Installation
+
+https://assyafii.com/docs/5g-cloud-native-simulation-with-open5gs/
+
+https://medium.com/rahasak/5g-core-network-setup-with-open5gs-and-ueransim-cd0e77025fd7
+
+https://levelup.gitconnected.com/opensource-5g-core-with-service-mesh-bba4ded044fa
+
+https://github.com/Gradiant/openverso-charts.git
+
+
